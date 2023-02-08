@@ -1,0 +1,6 @@
+{
+    "/carros/list":"/carros/",
+    "/carros/create":"/carros/",
+    "/carros/update/:id":"/carros/:id",
+    "/carros/delete/:id":"/carros/:id"
+}
