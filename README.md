@@ -24,3 +24,5 @@ Get - Faz uma consulta por id
 Post - insere um novo item
 Put - atualiza um item
 Delete - Deleta um item
+
+Para acessar o localhost:3001
