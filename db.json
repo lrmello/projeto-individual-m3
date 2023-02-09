@@ -1,0 +1,65 @@
+{ 
+    "carro": [
+        {
+            "modelo": "ford ka",
+            "cor": "preta",
+            "img":"./img/ka",
+            "ano": 2020,
+            "id": 1
+        },
+        {
+            "modelo": "bmw 320i",
+            "cor": "cinza",
+            "img":"./img/bmw",
+            "ano": 2018,
+            "id": 2
+        },
+        {
+            "modelo": "chevrolet prisma",
+            "cor": "vermelha",
+            "img":"./img/prisma",
+            "ano": 2019,
+            "id": 3
+        }
+    ],
+    "funcionario": [
+        {
+            "nome": "carlos",
+            "sobrenome":"silva",
+            "cargo": "vendedor",
+            "id": 1
+        },
+        {
+            "nome": "leonardo",
+            "sobrenome":"jose",
+            "cargo": "motorista",
+            "id": 2
+        },
+        {
+            "nome": "karine",
+            "sobrenome":"oliveira",
+            "cargo": "assistente",
+            "id": 3
+        }
+    ],
+    "cliente": [
+        {
+            "nome": "adriana",
+            "sobrenome":"maria",
+            "cpf": "86468940028",
+            "id": 1
+        },
+        {
+            "nome": "regina",
+            "sobrenome":"maura",
+            "cpf": "18167747077",
+            "id": 2
+        },
+        {
+            "nome": "jurema",
+            "sobrenome":"jose",
+            "cpf": "54735345035",
+            "id": 3
+        }
+    ]
+}
