@@ -8,6 +8,19 @@ Instalar no terminal do windows os pacotes do json-server no comando abaixo, loc
 
 npm install -g json-server
 
-Após disso, fazer o teste pelo comando do json-server:
+Após disso, fazer o teste pelo comando do json-server utilizando Insomnia:
 
-npx json-server --watch db.json
+npm dev run --port 3001
+
+O arquivo possui 3 rotas (carro, funcionário e cliente) e com a estrutura abaixo:
+
+Carro: modelo, cor, imagem, ano, id
+Funcionario: nome, sobrenome, cargo, id
+Cliente: nome, sobrenome, cpf, id
+
+Automaticamente o JSON Server já aplica o CRUD (Create, Read, Update, Delete)
+
+Get - Faz uma consulta por id
+Post - insere um novo item
+Put - atualiza um item
+Delete - Deleta um item

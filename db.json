@@ -1,20 +1,23 @@
-{
+{ 
     "carro": [
         {
             "modelo": "ford ka",
             "cor": "preta",
+            "img":"./img/ka",
             "ano": 2020,
             "id": 1
         },
         {
-            "modelo": "bwm 320i",
+            "modelo": "bmw 320i",
             "cor": "cinza",
+            "img":"./img/bmw",
             "ano": 2018,
             "id": 2
         },
         {
             "modelo": "chevrolet prisma",
             "cor": "vermelha",
+            "img":"./img/prisma",
             "ano": 2019,
             "id": 3
         }

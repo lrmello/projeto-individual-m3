@@ -2,5 +2,15 @@
     "/carros/list":"/carros/",
     "/carros/create":"/carros/",
     "/carros/update/:id":"/carros/:id",
-    "/carros/delete/:id":"/carros/:id"
+    "/carros/delete/:id":"/carros/:id",
+
+    "/funcionario/list":"/funcionario/",
+    "/funcionario/create":"/funcionario/",
+    "/funcionario/update/:id":"/funcionario/:id",
+    "/funcionario/delete/:id":"/funcionario/:id",
+
+    "/cliente/list":"/cliente/",
+    "/cliente/create":"/cliente/",
+    "/cliente/update/:id":"/cliente/:id",
+    "/cliente/delete/:id":"/cliente/:id"
 }
