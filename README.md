@@ -29,9 +29,9 @@ Delete - Deleta um item
 
 Para acessar o localhost:3001 temos os caminhos abaixo, o id será o identificador para cada usuário preenchido pelo programador:
 
-localhost:3001/carros/:id
-localhost:3001/funcionario/:id
-localhost:3001/cliente/:id
+localhost:3001/carros/:id <br>
+localhost:3001/funcionario/:id<br>
+localhost:3001/cliente/:id<br>
 
 
 
