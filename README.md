@@ -10,7 +10,7 @@ npm install -g json-server
 
 Após disso, fazer o teste pelo comando do json-server utilizando Insomnia:
 
-Os dados serão atualizados diretamente pelo código utilizando a função nodemon, sendo feita diretamente no arquivo db.json, que estará na pasta json do arquivo, nesse caso terá 
+Os dados serão atualizados diretamente pelo código utilizando a função nodemon, sendo feita diretamente no arquivo db.json, que estará na pasta json do arquivo, nesse caso terá que dar um cd json
 
 npm dev run --port 3001
 
@@ -33,7 +33,7 @@ localhost:3001/carros/:id <br>
 localhost:3001/funcionario/:id<br>
 localhost:3001/cliente/:id<br>
 
-Para acesso via Server.js use o comando node Server.js para acesso do banco via JavaScript
+Para acesso via Server.js use o comando node Server.js para acesso do banco via JavaScript também acessando pela pasta cd js
 
 
 
