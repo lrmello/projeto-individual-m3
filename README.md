@@ -33,5 +33,5 @@ localhost:3001/carros/:id
 localhost:3001/funcionario/:id
 localhost:3001/cliente/:id
 
-Para acessar o localhost:3001
+
 
