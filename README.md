@@ -10,7 +10,7 @@ npm install -g json-server
 
 Após disso, fazer o teste pelo comando do json-server utilizando Insomnia:
 
-Os dados serão atualizados diretamente pelo código utilizando a função nodemon, sendo feita diretamente no arquivo db.json
+Os dados serão atualizados diretamente pelo código utilizando a função nodemon, sendo feita diretamente no arquivo db.json, que estará na pasta json do arquivo, nesse caso terá 
 
 npm dev run --port 3001
 
