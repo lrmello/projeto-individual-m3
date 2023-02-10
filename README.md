@@ -33,5 +33,7 @@ localhost:3001/carros/:id <br>
 localhost:3001/funcionario/:id<br>
 localhost:3001/cliente/:id<br>
 
+Para acesso via Server.js use o comando node Server.js para acesso do banco via JavaScript
+
 
 
