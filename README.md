@@ -22,10 +22,10 @@ Cliente: nome, sobrenome, cpf, id
 
 Automaticamente o JSON Server já aplica o CRUD (Create, Read, Update, Delete)
 
-Get - Faz uma consulta por id
-Post - insere um novo item
-Put - atualiza um item
-Delete - Deleta um item
+Get - Faz uma consulta por id<br>
+Post - insere um novo item<br>
+Put - atualiza um item<br>
+Delete - Deleta um item<br>
 
 Para acessar o localhost:3001 temos os caminhos abaixo, o id será o identificador para cada usuário preenchido pelo programador:
 
